@@ -81,7 +81,7 @@ class chapterFour:
             print(str(array[count]))
             count += 1
         print("Program Complete!")
-        sleep(5)
+        
             
         
     def sixtwo():
